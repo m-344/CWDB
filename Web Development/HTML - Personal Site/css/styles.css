@@ -24,13 +24,9 @@ h3 {
   padding-top: 100px;
 }
 
-.middle-container {
-  background-color: red;
-}
+.middle-container {}
 
-.bottom-container {
-  background-color: blue;
-}
+.bottom-container {}
 
 .top-cloud {
   position: absolute;
